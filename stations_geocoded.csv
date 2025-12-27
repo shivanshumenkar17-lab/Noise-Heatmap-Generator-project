@@ -1,0 +1,71 @@
+Station,Name,City,State,Type,lat,lon
+DEL01,Dilshad Garden,Delhi,Delhi,Silence,28.6758864,77.321446
+DEL02,"CPCB, HQ",Delhi,Delhi,Commercial,,
+DEL03,"DCE, Bawana",Delhi,Delhi,Silence,28.7508153,77.1162765
+DEL04,ITO,Delhi,Delhi,Commercial,28.6281909,77.2410437
+DEL05,"NSIT, Dwarka",Delhi,Delhi,Silence,28.6109477,77.0384563
+DEL06,Civil Lines,Delhi,Delhi,Commercial,28.6806862,77.2225999
+DEL07,R. K. Puram,Delhi,Delhi,Silence,28.5503805,77.1855231
+DEL08,Anand Vihar,Delhi,Delhi,Commercial,28.6468336,77.3158749
+DEL09,Mandir Marg,Delhi,Delhi,Silence,28.6314973,77.1984831
+DEL10,Punjabi Bagh,Delhi,Delhi,Residential,28.672995,77.1461239
+BEN01,BTM,Bengaluru,Karnataka,Residential,12.9112759,77.6045654
+BEN02,Marathahalli,Bengaluru,Karnataka,Commercial,12.9552572,77.6984163
+BEN03,Nisarga Bhawan,Bengaluru,Karnataka,Residential,,
+BEN04,Parisar Bhawan,Bengaluru,Karnataka,Commercial,,
+BEN05,Peeniya,Bengaluru,Karnataka,Industrial,,
+BEN06,Yeshwanthpur,Bengaluru,Karnataka,Commercial,13.0176937,77.5555009
+BEN07,R.V.C.E.,Bengaluru,Karnataka,Silence,13.0091771,77.6925464
+BEN08,Whitefield,Bengaluru,Karnataka,Industrial,12.9963995,77.7614229
+BEN09,NIMHANS,Bengaluru,Karnataka,Silence,12.9374894,77.594142
+BEN10,Domlur,Bengaluru,Karnataka,Residential,12.9624669,77.6381958
+CHE01,Eye Hospital,Chennai,Tamil Nadu,Silence,13.0703627,80.2600948
+CHE02,Guindy,Chennai,Tamil Nadu,Industrial,13.0086685,80.2126063
+CHE03,Perambur,Chennai,Tamil Nadu,Commercial,13.1121242,80.245022
+CHE04,T. Nagar,Chennai,Tamil Nadu,Commercial,13.0294483,80.2309064
+CHE05,Triplicane,Chennai,Tamil Nadu,Residential,13.0604285,80.2750704
+CHE06,Pallikaranai,Chennai,Tamil Nadu,Commercial,12.9304748,80.2077692
+CHE07,Velachery,Chennai,Tamil Nadu,Residential,12.9801655,80.2228506
+CHE08,Washermanpet,Chennai,Tamil Nadu,Commercial,13.1089648,80.2820095
+CHE09,Anna Nagar,Chennai,Tamil Nadu,Silence,13.0872004,80.2164421
+CHE10,Sowcarpet,Chennai,Tamil Nadu,Residential,13.0884967,80.2783092
+HYD01,ABITS,Hyderabad,Telangana,Commercial,,
+HYD02,Jeedimetla,Hyderabad,Telangana,Industrial,17.519687,78.4468876
+HYD03,Jublee Hills,Hyderabad,Telangana,Residential,,
+HYD04,Zoo,Hyderabad,Telangana,Silence,17.3589651,78.4464781
+HYD05,TSPCB,Hyderabad,Telangana,Commercial,,
+HYD06,Tarnaka,Hyderabad,Telangana,Residential,17.4285479,78.5379433
+HYD07,Gaddapotharam,Hyderabad,Telangana,Industrial,,
+HYD08,Gachibowli,Hyderabad,Telangana,Silence,17.4436222,78.3519638
+HYD09,Paradise,Hyderabad,Telangana,Commercial,17.4418278,78.4875311
+HYD10,JNTU,Hyderabad,Telangana,Commercial,17.4946328,78.3953281
+KOL01,Gol Park,Kolkata,West Bengal,Industrial,22.5160511,88.3663985
+KOL02,New Market,Kolkata,West Bengal,Commercial,22.5602421,88.3529668
+KOL03,Patauli,Kolkata,West Bengal,Residential,,
+KOL04,SSKM Hospital,Kolkata,West Bengal,Silence,22.5399981,88.3417631
+KOL05,WBPCB Headquarter,Kolkata,West Bengal,Commercial,,
+KOL06,Birati Neelachal,Kolkata,West Bengal,Residential,,
+KOL07,R G Kar Hospital,Kolkata,West Bengal,Silence,22.6044756,88.3784067
+KOL08,Tollygunge,Kolkata,West Bengal,Commercial,22.498636,88.3453908
+KOL09,Bag Bazar,Kolkata,West Bengal,Residential,22.6015868,88.3636559
+KOL10,Tartala,Kolkata,West Bengal,Industrial,,
+LUC01,Talkatora,Lucknow,Uttar Pradesh,Industrial,26.8463184,80.8756188
+LUC02,Hazratganj,Lucknow,Uttar Pradesh,Commercial,26.8475285,80.9432003
+LUC03,P.G.I. Hospital,Lucknow,Uttar Pradesh,Silence,,
+LUC04,Indira Nagar,Lucknow,Uttar Pradesh,Residential,26.8823182,80.9900344
+LUC05,Gomti Nagar,Lucknow,Uttar Pradesh,Silence,26.8611743,81.0039196
+LUC06,Chinhat,Lucknow,Uttar Pradesh,Industrial,26.8751435,81.0355588
+LUC07,IT College,Lucknow,Uttar Pradesh,Silence,26.8710268,80.9456475
+LUC08,RSC Aliganj,Lucknow,Uttar Pradesh,Commercial,,
+LUC09,UPPCB HQ,Lucknow,Uttar Pradesh,Commercial,,
+LUC10,CCS Airport,Lucknow,Uttar Pradesh,Commercial,26.7662824,80.8836391
+MUM01,ASHP Hospital,Mumbai,Maharashtra,Silence,,
+MUM02,Bandra,Mumbai,Maharashtra,Commercial,19.0549792,72.8402203
+MUM03,"MPCB, HQ",Mumbai,Maharashtra,Commercial,,
+MUM04,Thane,Mumbai,Maharashtra,Commercial,19.1131271,72.962701
+MUM05,VASHI Hospital,Navi Mumbai,Maharashtra,Silence,19.0738577,72.9993036
+MUM06,Kandivali,Mumbai,Maharashtra,Industrial,19.2041136,72.8517376
+MUM07,Powai,Mumbai,Maharashtra,Industrial,19.1187195,72.9073476
+MUM08,Chembur,Mumbai,Maharashtra,Residential,19.054818,72.8979713
+MUM09,Andheri,Mumbai,Maharashtra,Industrial,19.1196976,72.8464205
+MUM10,CST,Mumbai,Maharashtra,Commercial,18.9403748,72.8325776
